@@ -1,0 +1,19 @@
+/* footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+} */
+
+footer {
+    line-height: 6rem;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer-para {
+    color:#8E8E90;
+}
